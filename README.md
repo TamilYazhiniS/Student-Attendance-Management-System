@@ -36,5 +36,4 @@ The Student Attendance Management System is a Java-based application that helps 
 
    `java StudentAttendance`
 
--Management-System
-A Java-based Student Attendance Management System
+
